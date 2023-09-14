@@ -1,0 +1,74 @@
+[
+  {
+    "courseId": "CSE101",
+    "courseImg": "https://i.ibb.co/gyg8Vks/Advanced-Data-Structures-and-Algorithms.png",
+    "courseTitle": "Advanced Data Structures and Algorithms",
+    "courseDescription": "Master advanced data structures and algorithm design techniques to tackle complex computational problems in computer science.",
+    "coursePrice": 9999,
+    "courseCredit": 120
+  },
+  {
+    "courseId": "CSE102",
+    "courseImg": "https://i.ibb.co/PYMSScc/Full-Stack-Web-Development-with-Java-Script.jpg",
+    "courseTitle": "Full-Stack Web Development with JavaScript",
+    "courseDescription": "Learn to build dynamic web applications from scratch using JavaScript, Node.js, and modern front-end frameworks.",
+    "coursePrice": 8999,
+    "courseCredit": 100
+  },
+  {
+    "courseId": "CSE103",
+    "courseImg": "https://i.ibb.co/YD9rdDD/Machine-Learning-and-Deep-Learning.png",
+    "courseTitle": "Machine Learning and Deep Learning",
+    "courseDescription": "Dive deep into the world of machine learning and deep learning, exploring neural networks and their applications.",
+    "coursePrice": 7999,
+    "courseCredit": 90
+  },
+  {
+    "courseId": "CSE104",
+    "courseImg": "https://i.ibb.co/kBBDJwg/Cybersecurity-Fundamentals.jpg",
+    "courseTitle": "Cybersecurity Fundamentals",
+    "courseDescription": "Understand the core principles of cybersecurity, including network security, ethical hacking, and threat analysis.",
+    "coursePrice": 7999,
+    "courseCredit": 80
+  },
+  {
+    "courseId": "CSE105",
+    "courseImg": "https://i.ibb.co/mBxK6rX/Cloud-Computing-and-AWS-Services.jpg",
+    "courseTitle": "Cloud Computing and AWS Services",
+    "courseDescription": "Explore cloud computing concepts and gain hands-on experience with AWS services for scalable applications.",
+    "coursePrice": 7999,
+    "courseCredit": 90
+  },
+  {
+    "courseId": "CSE106",
+    "courseImg": "https://i.ibb.co/xHJ3BKk/Software-Engineering-Best-Practices.png",
+    "courseTitle": "Software Engineering Best Practices",
+    "courseDescription": "Learn the best practices in software development, including agile methodologies, code quality, and project management.",
+    "coursePrice": 6999,
+    "courseCredit": 80
+  },
+  {
+    "courseId": "CSE107",
+    "courseImg": "https://i.ibb.co/7rGW5J4/Artificial-Intelligence-and-Ethics-in-CSE.jpg",
+    "courseTitle": "Artificial Intelligence and Ethics in CSE",
+    "courseDescription": "Explore the ethical dimensions of artificial intelligence and machine learning in the context of computer science and engineering.",
+    "coursePrice": 7999,
+    "courseCredit": 70
+  },
+  {
+    "courseId": "CSE108",
+    "courseImg": "https://i.ibb.co/XkvX1pd/Database-Management-and-SQL.jpg",
+    "courseTitle": "Database Management and SQL",
+    "courseDescription": "Master database design, management, and SQL programming for efficient data handling in CSE applications.",
+    "coursePrice": 6999,
+    "courseCredit": 80
+  },
+  {
+    "courseId": "CSE109",
+    "courseImg": "https://i.ibb.co/n72FpSX/Computer-Graphics-and-Visualization.jpg",
+    "courseTitle": "Computer Graphics and Visualization",
+    "courseDescription": "Learn the principles and techniques of computer graphics and data visualization for CSE projects.",
+    "coursePrice": 7999,
+    "courseCredit": 90
+  }
+]
