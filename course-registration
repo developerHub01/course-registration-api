@@ -11,7 +11,7 @@
     "courseId": "CSE102",
     "courseImg": "https://i.ibb.co/PYMSScc/Full-Stack-Web-Development-with-Java-Script.jpg",
     "courseTitle": "Full-Stack Web Development with JavaScript",
-    "courseDescription": "Learn to build dynamic web applications from scratch using JavaScript, Node.js, and modern frameworks.",
+    "courseDescription": "Learn to build dynamic web applications from scratch using JavaScript, Node.js, frameworks.",
     "coursePrice": 8999,
     "courseCredit": 100
   },
