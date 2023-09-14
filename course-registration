@@ -5,7 +5,7 @@
     "courseTitle": "Advanced Data Structures and Algorithms",
     "courseDescription": "Master advanced data structures and algorithm design techniques to tackle complex computational problems.",
     "coursePrice": 9999,
-    "courseCredit": 120
+    "courseCredit": 1
   },
   {
     "courseId": "CSE102",
@@ -13,7 +13,7 @@
     "courseTitle": "Full-Stack Web Development with JavaScript",
     "courseDescription": "Learn to build dynamic web applications from scratch using JavaScript, Node.js, frameworks.",
     "coursePrice": 8999,
-    "courseCredit": 100
+    "courseCredit": 2
   },
   {
     "courseId": "CSE103",
@@ -21,7 +21,7 @@
     "courseTitle": "Machine Learning and Deep Learning",
     "courseDescription": "Dive deep into the world of machine learning and deep learning, exploring neural networks and their applications.",
     "coursePrice": 7999,
-    "courseCredit": 90
+    "courseCredit": 10
   },
   {
     "courseId": "CSE104",
@@ -29,7 +29,7 @@
     "courseTitle": "Cybersecurity Fundamentals",
     "courseDescription": "Understand the core principles of cybersecurity, including network security, ethical hacking, threat analysis.",
     "coursePrice": 7999,
-    "courseCredit": 80
+    "courseCredit": 5
   },
   {
     "courseId": "CSE105",
@@ -37,7 +37,7 @@
     "courseTitle": "Cloud Computing and AWS Services",
     "courseDescription": "Explore cloud computing concepts and gain hands-on experience with AWS services for scalable applications.",
     "coursePrice": 7999,
-    "courseCredit": 90
+    "courseCredit": 5
   },
   {
     "courseId": "CSE106",
@@ -45,7 +45,7 @@
     "courseTitle": "Software Engineering Best Practices",
     "courseDescription": "Learn the best practices in software development, including agile methodologies, code quality, and project management.",
     "coursePrice": 6999,
-    "courseCredit": 80
+    "courseCredit": 2
   },
   {
     "courseId": "CSE107",
@@ -53,7 +53,7 @@
     "courseTitle": "Artificial Intelligence and Ethics in CSE",
     "courseDescription": "Explore the ethical dimensions of artificial intelligence and machine learning in the context of computer science and engineering.",
     "coursePrice": 7999,
-    "courseCredit": 70
+    "courseCredit": 5
   },
   {
     "courseId": "CSE108",
@@ -61,7 +61,7 @@
     "courseTitle": "Database Management and SQL",
     "courseDescription": "Master database design, management, and SQL programming for efficient data handling in CSE applications.",
     "coursePrice": 6999,
-    "courseCredit": 80
+    "courseCredit": 5
   },
   {
     "courseId": "CSE109",
@@ -69,6 +69,6 @@
     "courseTitle": "Computer Graphics and Visualization",
     "courseDescription": "Learn the principles and techniques of computer graphics and data visualization for CSE projects.",
     "coursePrice": 7999,
-    "courseCredit": 90
+    "courseCredit": 2
   }
 ]
