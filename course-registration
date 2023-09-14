@@ -3,7 +3,7 @@
     "courseId": "CSE101",
     "courseImg": "https://i.ibb.co/gyg8Vks/Advanced-Data-Structures-and-Algorithms.png",
     "courseTitle": "Advanced Data Structures and Algorithms",
-    "courseDescription": "Master advanced data structures and algorithm design techniques to tackle complex computational problems in computer science.",
+    "courseDescription": "Master advanced data structures and algorithm design techniques to tackle complex computational problems.",
     "coursePrice": 9999,
     "courseCredit": 120
   },
@@ -11,7 +11,7 @@
     "courseId": "CSE102",
     "courseImg": "https://i.ibb.co/PYMSScc/Full-Stack-Web-Development-with-Java-Script.jpg",
     "courseTitle": "Full-Stack Web Development with JavaScript",
-    "courseDescription": "Learn to build dynamic web applications from scratch using JavaScript, Node.js, and modern front-end frameworks.",
+    "courseDescription": "Learn to build dynamic web applications from scratch using JavaScript, Node.js, and modern frameworks.",
     "coursePrice": 8999,
     "courseCredit": 100
   },
@@ -27,7 +27,7 @@
     "courseId": "CSE104",
     "courseImg": "https://i.ibb.co/kBBDJwg/Cybersecurity-Fundamentals.jpg",
     "courseTitle": "Cybersecurity Fundamentals",
-    "courseDescription": "Understand the core principles of cybersecurity, including network security, ethical hacking, and threat analysis.",
+    "courseDescription": "Understand the core principles of cybersecurity, including network security, ethical hacking, threat analysis.",
     "coursePrice": 7999,
     "courseCredit": 80
   },
